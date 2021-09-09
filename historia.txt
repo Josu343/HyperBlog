@@ -1,2 +1,7 @@
 borramos todos los numeros y deberia estar iniciando recien 
 0
+agregamos mas nros 
+1
+2
+3
+4
