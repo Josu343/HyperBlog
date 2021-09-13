@@ -6,6 +6,7 @@ body {
     margin: 20px 0 0 0 ;
     padding: 0;
     /*border-top: 200spx;*/
+    background: gray;
 }
 #container{
     width: 70%;
@@ -13,9 +14,6 @@ body {
     border: 1px solid #ddd;
     margin: 0  auto;
     padding: 0;
-}
-#container h1{
-    font-size: 25px;
 }
 #cabecera{
     background: blue;
@@ -31,6 +29,15 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+#cabecera #logo{
+    width: 1.5em;
+    margin: 0px 0.5em;
+    vertical-align: middle;
+}
+
+#container h1{
+    font-size: 25px;
+}
 #post p{
     color: yellow;
     background-color: black;
@@ -39,5 +46,6 @@ body {
 }
 #post {
     padding: 1em;
+    background: whitesmoke;
 }
 
