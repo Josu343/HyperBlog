@@ -48,4 +48,14 @@ body {
     padding: 1em;
     background: whitesmoke;
 }
+#footer{
+    background: lightcoral;
+    color: maroon;
+    text-align: center;
+    padding: 0.5em;
+}
+#footer p{
+    margin: 0;
+}
+
 
